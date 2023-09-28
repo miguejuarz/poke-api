@@ -64,7 +64,7 @@ export default class SearchForm extends Component {
                   </form>
                 </div>
               </div>
-              <img src={this.state.img} style={{ height: "500px" }} />
+              <img src={this.state.img} style={{ height: "500px" }} className=""/>
             </div>
             <div className="col-4 d-flex align-items-center"></div>
           </div>

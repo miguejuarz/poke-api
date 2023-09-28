@@ -19,7 +19,7 @@ export const Navbar = () => {
     <div className="collapse navbar-collapse" id="navbarNav">
       <ul className="navbar-nav">
         <li className="nav-item">
-          {/* <CgPokemon style={{position:"fixed"}}/> */}
+         
           <Link to="/" className="nav-link active" aria-current="page" href="#">Home</Link>
         </li>
         <li className="nav-item">
@@ -28,11 +28,9 @@ export const Navbar = () => {
         <li className="nav-item">
           <Link to="search" className="nav-link" href="#">Search</Link>
         </li>
+      
         <li className="nav-item">
-          <a className="nav-link disabled" href="#" tabIndex="-1" aria-disabled="true">About</a>
-        </li>
-        <li className="nav-item">
-          <a className="nav-link disabled" href="#" tabIndex="-1" aria-disabled="true"> N° Pokemons <strong>{TotalPokemon}</strong></a>
+          <a className="nav-link disabled" href="#" tabIndex="-1" aria-disabled="true"><span><CgPokemon size={25}/> </span> <strong>{TotalPokemon}</strong></a>
         </li>
       </ul>
     </div>

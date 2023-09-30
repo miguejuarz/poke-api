@@ -1,8 +1,7 @@
 # Poke API
-
-![Poke API Screenshot](https://miguejuarz.github.io/poke-api/src/asset/screenshot1.png)
-![Poke API Screenshot](https://miguejuarz.github.io/poke-api/src/asset/screenshot2.png)
-![Poke API Screenshot](https://miguejuarz.github.io/poke-api/src/asset/screenshot3.png)
+![Poke API Screenshot](https://raw.githubusercontent.com/miguejuarz/poke-api/main/src/asset/screenshot1.png)
+![Poke API Screenshot](https://raw.githubusercontent.com/miguejuarz/poke-api/main/src/asset/screenshot2.png)
+![Poke API Screenshot](https://raw.githubusercontent.com/miguejuarz/poke-api/main/src/asset/screenshot3.png)
 
 Este proyecto es una aplicación web que utiliza la Poke API para obtener información sobre Pokémon. Puedes buscar Pokémon por nombre y tipo
 ## Demo

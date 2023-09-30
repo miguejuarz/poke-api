@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/poke-api/static/css/main.7562ff88.css",
+    "main.js": "/poke-api/static/js/main.7192e8f6.js",
+    "static/media/pokeball-800x600-unscreen.gif": "/poke-api/static/media/pokeball-800x600-unscreen.a5eb8a336716d5178c28.gif",
+    "static/media/bg1.png": "/poke-api/static/media/bg1.8541ae0962efd89d6688.png",
+    "static/media/bg.jpg": "/poke-api/static/media/bg.42ee8f21764c7720ef0d.jpg",
+    "static/media/pokemons.jpg": "/poke-api/static/media/pokemons.0a21a9d4daf425bbc300.jpg",
+    "static/media/pokedex.jpg": "/poke-api/static/media/pokedex.5acbf16ed4c17088c4c8.jpg",
+    "static/media/lucha.jpg": "/poke-api/static/media/lucha.dd45fd6fe120bc36d4eb.jpg",
+    "static/media/agua.jpg": "/poke-api/static/media/agua.76335b3ebe564f11f340.jpg",
+    "static/media/veneno.jpg": "/poke-api/static/media/veneno.56f53f7ed2a56dcb0526.jpg",
+    "static/media/roca.jpg": "/poke-api/static/media/roca.85f29e60425c63197c66.jpg",
+    "static/media/siniestro.jpg": "/poke-api/static/media/siniestro.41e2d8086309ac7f2caa.jpg",
+    "static/media/fuego.jpg": "/poke-api/static/media/fuego.65bdd53638d7a351c733.jpg",
+    "static/media/psiquico.jpg": "/poke-api/static/media/psiquico.a0a498b8692888c653b3.jpg",
+    "static/media/planta.jpg": "/poke-api/static/media/planta.62fe6765b1a3631f71ac.jpg",
+    "static/media/Bicho.jpg": "/poke-api/static/media/Bicho.107f3ca9bb4a0688339a.jpg",
+    "static/media/fantasma.jpg": "/poke-api/static/media/fantasma.ca22446184b4dcba7f88.jpg",
+    "static/media/hada.jpg": "/poke-api/static/media/hada.37deadba01221990e7b6.jpg",
+    "static/media/normal.jpg": "/poke-api/static/media/normal.3870a68024381de93558.jpg",
+    "static/media/dragon.jpg": "/poke-api/static/media/dragon.496b1260929d0a676eb8.jpg",
+    "static/media/tierra.jpg": "/poke-api/static/media/tierra.3b38a31b019de2f77cb5.jpg",
+    "static/media/volador.jpg": "/poke-api/static/media/volador.a1728523cd3444758882.jpg",
+    "static/media/electrico.jpg": "/poke-api/static/media/electrico.6fe862096e4c49cdabd1.jpg",
+    "static/media/tipos.jpg": "/poke-api/static/media/tipos.8c1f9fa00c7ad0cb5855.jpg",
+    "static/media/hielo.jpg": "/poke-api/static/media/hielo.17f2fbe7ee99292b158d.jpg",
+    "static/media/acero.jpg": "/poke-api/static/media/acero.83f13dcb10e54eaa2dc1.jpg",
+    "static/media/pikachu.gif": "/poke-api/static/media/pikachu.443d9585e9c6f8781f49.gif",
+    "index.html": "/poke-api/index.html",
+    "main.7562ff88.css.map": "/poke-api/static/css/main.7562ff88.css.map",
+    "main.7192e8f6.js.map": "/poke-api/static/js/main.7192e8f6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7562ff88.css",
+    "static/js/main.7192e8f6.js"
+  ]
+}

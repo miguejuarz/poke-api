@@ -36,7 +36,7 @@ export const Home = () => {
             className={styles.customImage}
             src={pokedex}
             alt=""
-            style={{ height: "300px"}}
+            style={{ height: "300px", borderRadius: "5px" }}
           />
         </Link>
         </div>
